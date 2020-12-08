@@ -1,0 +1,29 @@
+{
+    "datadiri": {
+        "nama": {
+            "awal": "Aulia",
+            "akhir": "Belsasar"
+        },
+        "status": "Mahasiswa",
+        "jeniskelamin": "Laki-laki",
+        "alamat": {
+            "Jalan"    : "Jl.Bunga Matahari 2 No.25",
+            "Kecamatan": "Way Kandis",
+            "Kabupaten": "Lampung Selatan",
+            "Provinsi" : "Lampung"
+        },
+        "orangtua": {
+            "bapak": "Parlindungan Silalahi",
+            "ibu"  : "Kosti Simangunsong"
+        },
+        "sosialmedia"  : {
+            "instagram"   : "aulia_belsasar",
+            "No_whatsapp" : "081263271637"
+        },
+        "hobi": {
+            "hobi1": "Main Basket",
+            "hobi2": "Main Game",
+            "hobi3": "Dengar Musik"
+        }
+    }
+}

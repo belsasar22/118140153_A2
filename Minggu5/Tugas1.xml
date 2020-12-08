@@ -1,0 +1,28 @@
+<?xml version=1?>
+<dataDiri>
+    <nama>
+        <awal>Aulia</awal>
+        <akhir>Belsasar</awal>
+    </nama>
+    <status>Mahasiswa</status>
+    <jenisKelamin>Laki-laki</jenisKelamin>
+    <alamat>
+        <jalan>Jl.Bunga Matahari 2 No.25</jalan>
+        <kecamatan>Tanjung Senang</kecamatan>
+        <kabupaten>Lampung Selatan</kabupaten>
+        <Provinsi>Lampung</Provinsi>
+    </alamat>
+    <orangTua>
+        <bapak>Parlindungan Silalahi</bapak>
+        <ibu>Kosti Simangunsong</ibu>
+    </orangTua>
+    <socialMedia>
+        <instagram>aulia_belsasar</instagram>
+        <No_whatsapp>081263271637</No_whatsapp>
+    </socialMedia>
+    <hobi>
+        <hobi1>Main Basket</hobi1>
+        <hobi2>Main Game</hobi2>
+        <hobi3>Dengar Musik</hobi3>
+    </hobi>
+</dataDiri>
